@@ -1,5 +1,5 @@
 ---
-title: 'About me'
+title: 'Sobre mi'
 menu:
   main:
     name: "AboutMe"
@@ -7,15 +7,13 @@ menu:
 
 ## Who am I
 
-Hola, aquí vas a leer un poco sobre mi 🤩
+Hola, aquí vas a leer un poco sobre mi 
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+> la vida es como una tortilla la parte quemada te hace disfrutar la tortilla
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+**Ricardo Lopez** Ese es mi nombre, vivo en la frontera norte de mexico, realmente
+no tengo muchas sobre lo que me gusta, pues pienso que realmente no tengo gustos
+especiales, lo que si se sobre mis gustos es que sencillamente me facina ver cuando
+alguien platica o comparte sus gustos, pues eso te hace querer intentarlo
+y hasta te llena de alegria que alguien tenga aficiones 
 
