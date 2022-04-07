@@ -6,7 +6,17 @@
     <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Feb 2022 18:16:21 -0600</lastBuildDate><atom:link href="https://ricardlb.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ricardlb.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ruta de aprendizaje</title>
+      <link>https://ricardlb.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ricardlb.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>Hey! este espacio solo es para que sepas un poco sobre lo que eh aprendido durante mi recorrido en launchex: -Uso parcial de phyton -Entendimiento parcial de html -Entendimiento parcial de CSS -Entendimiento parcial de JS
+la verad es que la aventura fue bastante divertida hasta el momento, aunque realmente se me dificulta el entender las cosas pues no hay mucho apoyo aparte de los lives. Pienso que realmente fue una cosa buena el poder entrar a este grupo</description>
+    </item>
+    
     <item>
       <title>La cultura en el desarrollo de software.</title>
       <link>https://ricardlb.github.io/my_launchx_blog/posts/intro/</link>
